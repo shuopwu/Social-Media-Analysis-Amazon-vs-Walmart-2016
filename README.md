@@ -1,8 +1,8 @@
 # Social Media Course Project
-@rochester.edu
+@rochester.edu 
 
-Topic : Amazon vs Walmart
-Language: Python & R 
+Topic : Amazon vs Walmart (Python & R )
+
 
 (a)Keywords Selection
 I selected keywords related to amazon and Walmart from @amazon @walmart #amazon #walmart amazon amazon's amazondeals walmart walmart's. 
