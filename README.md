@@ -1,8 +1,6 @@
-# Social Media CIS442C
-@rochester.edu 
+project@rochester.edu 
 
 Topic : Amazon vs Walmart (Python & R )
-
 
 (a)Keywords Selection
 I selected keywords related to amazon and Walmart from @amazon @walmart #amazon #walmart amazon amazon's amazondeals walmart walmart's. 
