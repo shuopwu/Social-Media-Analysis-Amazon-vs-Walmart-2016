@@ -1,4 +1,4 @@
-# Social Media Course Project
+# Social Media CIS442C
 @rochester.edu 
 
 Topic : Amazon vs Walmart (Python & R )
