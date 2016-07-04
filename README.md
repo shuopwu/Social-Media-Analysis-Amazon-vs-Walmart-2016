@@ -1,4 +1,6 @@
-Social Media Course Project @rochester.edu
+# Social Media Course Project
+@rochester.edu
+
 Topic : Amazon vs Walmart
 Language: Python & R 
 
