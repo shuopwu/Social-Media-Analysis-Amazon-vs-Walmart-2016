@@ -1,6 +1,5 @@
 Social Media Analysis
-project@rochester.edu 
-
+CIS442C
 Topic : Amazon vs Walmart (Python & R )
 
 (a)Keywords Selection
