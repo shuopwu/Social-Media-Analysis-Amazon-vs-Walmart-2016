@@ -1,10 +1,15 @@
 Social Media Analysis
+
 CIS442C
+
 Topic : Amazon vs Walmart (Python & R )
 
 (a)Keywords Selection
+
 I selected keywords related to amazon and Walmart from @amazon @walmart #amazon #walmart amazon amazon's amazondeals walmart walmart's. 
+
 (b) Date Selection
+
 Because the analysis is about the Thanksgiving period, so the time frame is from Nov 20th to Nov 30th (10 days in total).
 
 It’s not surprising that Amazon did the best in the past Black Friday period.
